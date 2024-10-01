@@ -1,0 +1,422 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Meclis TV"tvg-id="TBMM"tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png"group-title="TRT":http-referrer="":http-user-agent="",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT_1"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="TRT":http-referrer="":http-user-agent="",TRT 1
+https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT_1"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="TRT":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayintrt1.m3u8
+#EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT_2"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png"group-title="TRT":http-referrer="":http-user-agent="",TRT 2
+https://bozztv.com/gin-36bay3/gt-trt2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRT_Turk"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz"tvg-id="TRT_Avaz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Kürdi"tvg-id="TRT_Kurdi"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Arabi"tvg-id="TRT_Arabi"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png"group-title="TRT":http-referrer="":http-user-agent="",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT World"tvg-id="TRT_World"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png"group-title="TRT":http-referrer="":http-user-agent="",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="A Spor "tvg-id="A_Spor "tvg-logo="https://iaspr.tmgrup.com.tr/site/v3/video/i/logo.png"group-title="Spor ":http-referrer="":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",A Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bozztv.com/gin-dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="Spor":http-referrer="":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="Spor_SporYildiz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="Spor":http-referrer="":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sports TV"tvg-id="Spor_SportsTV"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-name="FB TV"tvg-id="Spor_FBTV"tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png"group-title="Spor":http-referrer="":http-user-agent="",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-name="NBA TV"tvg-id="Spor_NBATV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayinnbatv.m3u8
+#EXTINF:-1 tvg-name="Euro Sport"tvg-id="Spor_EuroSport"tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Euro Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://uno.33db90cb61d9f6de.shop/p/f2XX9QypQfKPRKdqFeS/132/b.cf-worker-e4c050d79d3f544a.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2"tvg-id="Spor_EuroSport2"tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Euro Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://uno.33db90cb61d9f6de.shop/p/f2XX9QypQfKPRKdqFeS/142/a.cf-worker-e4c050d79d3f544a.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 1"tvg-id="Spor_TivibuSpor1"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayint1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2"tvg-id="Spor_TivibuSpor2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://uno.33db90cb61d9f6de.shop/p/f2XX9QypQfKPRKdqFeS/607/c.cf-worker-e4c050d79d3f544a.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3"tvg-id="Spor_TivibuSpor3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayint3.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 4"tvg-id="Spor_TivibuSpor4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://l.trgoalshls31.shop/yayint4.m3u8
+#EXTINF:-1 tvg-name="Spor Smart"tvg-id="Spor_SporSmart"tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinsmarts.m3u8
+#EXTINF:-1 tvg-name="Spor Smart 2"tvg-id="Spor_SporSmart2"tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinsms2.m3u8
+#EXTINF:-1 tvg-name="S SPORT"tvg-id="Spor_SSPORT"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinss.m3u8
+#EXTINF:-1 tvg-name="S SPORT 2"tvg-id="Spor_SSPORT2"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinss2.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://x.trgoalshls33.shop/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://q.zirvedeyim14.cfd/yayininat.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://ğ.trgoalshls27.shop/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="Spor_beINSPORTS2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb2.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="Spor_beINSPORTS2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayinb2.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="Spor_beINSPORTS2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://q.zirvedeyim14.cfd/yayinb2.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3"tvg-id="Spor_beINSPORTS3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb3.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4"tvg-id="Spor_beINSPORTS4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb4.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5"tvg-id="Spor_beINSPORTS5"tvg-logo="https://i.imgur.com/iRKfaee.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb5.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS Max"tvg-id="Spor_beINSPORTSMax"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayinbm1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS Max 2"tvg-id="Spor_beINSPORTSMax2"tvg-logo="https://i.imgur.com/t7U20yR.png"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://x.trgoalshls33.shop/yayinbm2.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor"tvg-id="Spor_TabiSpor"tvg-logo="https://yt3.googleusercontent.com/ihNpJKgQncLuCinvWVh1rRn-ZmfHD5hzkp97q7BWuquTEZ_dm2OqxQ_U2j5MiV1zpHIl7mARZcY=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tabii Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://uno.33db90cb61d9f6de.shop/p/f2XX9QypQfKPRKdqFeS/606/a.cf-worker-e4c050d79d3f544a.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor"tvg-id="Spor_TabiSpor"tvg-logo="https://yt3.googleusercontent.com/ihNpJKgQncLuCinvWVh1rRn-ZmfHD5hzkp97q7BWuquTEZ_dm2OqxQ_U2j5MiV1zpHIl7mARZcY=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tabii Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://b.trgoalshls29.shop/yayinbm1.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor"tvg-id="Spor_TabiSpor"tvg-logo="https://yt3.googleusercontent.com/ihNpJKgQncLuCinvWVh1rRn-ZmfHD5hzkp97q7BWuquTEZ_dm2OqxQ_U2j5MiV1zpHIl7mARZcY=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="":http-user-agent="",Tabii Spor
+https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="EXXEN "tvg-id="Spor_EXXEN"tvg-logo="https://play-lh.googleusercontent.com/iLiuTI58upyx6l3mhOpk6HFZr0Cb3xPIhQEcIyMmVraplcbdVRfm0L8lxql2t9g5Yw"group-title="Spor":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",EXXEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://uno.33db90cb61d9f6de.shop/p/f2XX9QypQfKPRKdqFeS/4011/b.cf-worker-e4c050d79d3f544a.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Ateş Başı"tvg-id="Rahat_AtesBasi"tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png"group-title="Rahatlatıcı":http-referrer="":http-user-agent="",Ateş Başı
+https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="Muzik_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png"group-title="Müzik":http-referrer="":http-user-agent="",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Dream Türk"tvg-id="Muzik_DreamTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd"group-title="Müzik":http-referrer="":http-user-agent="",Dream Türk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=kJ2L0YrhztHFfWGcZlAMVg&e=1725923580
+#EXTINF:-1 tvg-name="Tatlises"tvg-id="Muzik_Tatlises"tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nettentv.com%2F2021%2F10%2Ftatlises-tv.html&psig=AOvVaw1dvvyWDWtAYIAVkb1-gXvI&ust=1726156963502000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjC8vihu4gDFQAAAAAdAAAAABAE"group-title="Müzik":http-referrer="":http-user-agent="",Tatlises
+https://bozztv.com/gin-dvrfl05/gin-powerturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Power TV"tvg-id="Muzik_PowerTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c155866ac331e0feb22b"group-title="Müzik":http-referrer="":http-user-agent="",Power TV
+https://bozztv.com/gin-dvrfl05/gin-powerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kral Pop"tvg-id="Muzik_KralPop"tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"group-title="Müzik":http-referrer="":http-user-agent="",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne Türk"tvg-id="Muzik_NumberOneTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377"group-title="Müzik":http-referrer="":http-user-agent="",NumberOne Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne TV"tvg-id="Muzik_NumberOneTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415748866ac31d980eb317"group-title="Müzik":http-referrer="":http-user-agent="",NumberOne TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NumberOne Aşk"tvg-id="Muzik_NumberOneAsk"tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg"group-title="Müzik":http-referrer="":http-user-agent="",NumberOne Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Vevo Pop"tvg-id="Muzik_VevoPop"tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png"group-title="Müzik":http-referrer="":http-user-agent="",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:-1 tvg-name="TRT Haber"tvg-id="Haber_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png"group-title="Haber":http-referrer="":http-user-agent="",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Haber Türk"tvg-id="Haber_HaberTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216"group-title="Haber":http-referrer="":http-user-agent="",Haber Türk
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="CNN Türk"tvg-id="Haber_CNNTurk"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500"group-title="Haber":http-referrer="":http-user-agent="",CNN Türk
+https://bozztv.com/gin-dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="NTV"tvg-id="Haber_NTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264"group-title="Haber":http-referrer="":http-user-agent="",NTV
+https://bozztv.com/gin-dvrfl05/gin-ntvtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="A Haber"tvg-id="Haber_AHaber"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="Haber":http-referrer="":http-user-agent="",A Haber
+https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-ahaber/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI0IDI6Mzk6MzggUE0maGFzaF92YWx1ZT01L1FpMFVoM01NOXBWb0xPVzBHNnFRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+#EXTINF:-1 tvg-name="Haber Global"tvg-id="Haber_HaberGlobal"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa"group-title="Haber":http-referrer="":http-user-agent="",Haber Global
+https://api1.canlitvplayer.com/haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="Kanal 24"tvg-id="Haber_Kanal24"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed"group-title="Haber":http-referrer="":http-user-agent="",Kanal 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 tvg-name="TV 100"tvg-id="Haber_TV100"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd"group-title="Haber":http-referrer="":http-user-agent="",TV 100
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1 tvg-name="Tele 1"tvg-id="Haber_Tele1"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528"group-title="Haber":http-referrer="":http-user-agent="",Tele 1
+https://bozztv.com/gin-dvrfl05/gin-tele1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber"tvg-id="Haber_TGRT"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f"group-title="Haber":http-referrer="":http-user-agent="",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 tvg-name="KRT TV"tvg-id="Haber_KRTTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8"group-title="Haber":http-referrer="":http-user-agent="",KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-name="Sözcü TV"tvg-id="Haber_SozcuTV"tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg"group-title="Haber":http-referrer="":http-user-agent="",Sözcü TV
+https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+#EXTINF:-1 tvg-name="Halk TV"tvg-id="Haber_HalkTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5"group-title="Haber":http-referrer="":http-user-agent="",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="Haber_BloombergHT"tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk"group-title="Haber":http-referrer="":http-user-agent="",Bloomberg HT
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:-1 tvg-name="Star TV"tvg-id="Genel_StarTV"tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp"group-title="Genel":http-referrer="":http-user-agent="",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-name="ATV"tvg-id="Genel_ATV"tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"group-title="Genel":http-referrer="":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Now TV"tvg-id="Genel_FoxTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png"group-title="Genel":http-referrer="":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Now TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Show TV"tvg-id="Genel_ShowTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png"group-title="Genel":http-referrer="":http-user-agent="",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+#EXTINF:-1 tvg-name="TV 8"tvg-id="Genel_TV8"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"group-title="Genel":http-referrer="":http-user-agent="",TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6q8954bl1bhp&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-name="TV 8.5 "tvg-id="Genel_TV8.5"tvg-logo="https://yt3.googleusercontent.com/-vaIq06Du-qfHHBi-NyA37lxaTCOYv3CBl093Hm42IetGFzWtDxZxs3MScfHCBczf26Ldlj2=s900-c-k-c0x00ffffff-no-rj"group-title="Genel ":http-referrer="https://trgoals910.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TV 8.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayintv85.m3u8
+#EXTINF:-1 tvg-name="Kanal D "tvg-id="Kanal_D "tvg-logo="https://yt3.googleusercontent.com/CNqBeDj1YFEvY49sT6YW_xlOCR8yYYb0XZG7D7i4YJk-8TXHDqjm9O4mUJuEdREwKxuHKMVg=s900-c-k-c0x00ffffff-no-rj"group-title="Genel ":http-referrer="":http-user-agent="",Kanal D
+https://bozztv.com/gin-36bay4/gt-kanald-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="Genel_KanalD"tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png"group-title="Genel":http-referrer="":http-user-agent="",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-name="Beyaz TV"tvg-id="Genel_BeyazTV"tvg-logo="https://www.beyaztv.com.tr/images/logo.png"group-title="Genel":http-referrer="":http-user-agent="",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 tvg-name="Teve2"tvg-id="Genel_Teve2"tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM"group-title="Genel":http-referrer="":http-user-agent="",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 tvg-name="TV 4"tvg-id="Genel_TV4"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png"group-title="Genel":http-referrer="":http-user-agent="",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_360p.m3u8
+#EXTINF:-1 tvg-name="CNBC-e"tvg-id="Haber_CNBC-e"tvg-logo="https://s.cnbce.com/dist/images/logo.png"group-title="Genel":http-referrer="":http-user-agent="",CNBC-e (Youtube)
+https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+#EXTINF:-1 tvg-name="Kanal 7"tvg-id="Genel_Kanal7"tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png"group-title="Genel":http-referrer="":http-user-agent="",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="Fashion TV"tvg-id="Genel_FashionTV"tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM"group-title="Genel":http-referrer="":http-user-agent="",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion Film"tvg-id="Genel_FashionFilm"tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g"group-title="Genel":http-referrer="":http-user-agent="",Fashion Film
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="CizgiFilm_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Çocuk
+https://bozztv.com/gin-dvrfl05/gin-trt4cocuk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk"tvg-id="CizgiFilm_TRTDiyanet"tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:-1 tvg-name="MinikaGo"tvg-id="CizgiFilm_MinikaGo"tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",MinikaGo
+https://bozztv.com/gin-dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Minika Çocuk"tvg-id="CizgiFilm_MinikaCocuk"tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Minika Çocuk
+https://bozztv.com/gin-dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Cartoonito TV"tvg-id="CizgiFilm_CartoonitoTV"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoonito TV
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Zarok TV"tvg-id="CizgiFilm_ZarokTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-demir-adam-1-iron-man-1.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Iron Man
+https://vidrame.pro/vr/get/ef7709d0/1080.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Inanilmaz Hulk
+https://vidrame.pro/vr/get/84bf9980/720.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/32f814509611966ca9bab737cea7655793429c9641bb1da1cad3ca7aeab0af40.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Iron man 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-thor-turkce-dublaj-izle.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor
+https://cdn.dzen.ru/vod/converted-video/vod-content/44/90/09/21/36/02/54/97/46/0/176360d9-c58e-413a-b145-4e8c66417dac/kaltura/desc_1b6c88e745811e07e6a99bada5c94f51/v_bnpOI4PZUM/vw=1280,vh=544,fps=24.00,vbrt=934354,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Kaptan-Amerika-Ilk-Yenilmez-180x270.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Ilk Yenilmez
+https://cdn.dzen.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-yenilmezler-the-avengers-izle.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Avengers
+https://vidrame.pro/vr/get/9de3d24b/1080.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Iron-Man-3-2013.png"group-title="Marvel ":http-referrer="":http-user-agent="",Iron Man 3
+https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img2.acsta.net/c_310_420/pictures/210/384/21038405_20130910100531603.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor 2
+https://s372.rapidrame.com/hls2/01/00006/gnufw4fm2ftj_,l,n,.urlset/master.m3u8?t=7pwaC2BascKcMtIYvqw7oNvaHrEaXA6to7dF3ABF21U&s=1726844950&e=1199998800&f=31782&i=0.0&sp=0
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Captain-America-The-Winter-Soldier-2014.png"group-title="Marvel ":http-referrer="":http-user-agent="",Kaptan Amerika 2
+https://hls9.playmix.uno/hls/captainamerica-2-thewintersoldier-2014-trdualmp4-1ZbaS3jutnZ.mp4/master.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_ebd1f16c.jpeg?region=0,0,540,810"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari
+https://sfa545.5654644.xyz/file/snwixdepo2/Guardians%20of%20the%20Galaxy%202014%20DUAL%20@sinewix.mkv
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Marvel ":http-referrer="":http-user-agent="",Avengers 2
+https://strasbourg.cdn77.host/hls2/01/00018/edze36csqara_n/master.m3u8?t=D0ESo4BN0Qj3VaGhwh3r49XBeAATvge1g7kNQBIRYrc&s=1726845627&e=43200&f=92245&srv=x1&i=0.0&sp=5000&p1=strasbourg&p2=strasbourg
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/15/07/20/18/06/476503.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Karinca Adam
+https://cdn.dzeninfra.com/vod/converted-video/vod-content/64/85/04/01/66/99/79/40/12/7/776e7ac7-2297-435d-8034-3f09cbc0c789/kaltura/desc_2961da716cfaf819d91b9c02913d770c/v9oT-E_wE3U0/vw=1920,vh=1040,fps=24.00,vbrt=1856228,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HsuaaksL2tF7XBUf3bXDO5nRzTd6zINyg&s"group-title="Marvel ":http-referrer="":http-user-agent="",Civil War
+https://cdn.dzen.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/16/10/18/11/39/193242.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Doctor Strange
+https://cdn.txtstream2.xyz/hls/2/cdn5/cdn/movies/doctorstrange.mp4/index.m3u8?token=d2BE4T1uByq6SO5WVHuKVQ&tms=1727037569
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Spiderman Homecoming
+https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://file.macellan.online/images/540/825/80//rzrwtcfvttcn1zpx2xv4j3tsdju--1691413618.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810"group-title="Marvel ":http-referrer="":http-user-agent="",Black Panter
+https://s4.imglink.info/ml/DzkuL2fhHTShqTuypv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5cozMis0xi4vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Yenilmezler-3-Sonsuzluk-Savasi.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Avengers 3
+https://vidrame.pro/vr/get/58a86ee0/1080.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/264494138/s332/karinca-adam-ve-yaban-arisi"group-title="Marvel ":http-referrer="":http-user-agent="",karinca Adam 2
+https://panel.sinema.cx/cdn/hls/3d116ea5e40f769a80420e7b9810a7a2/master.m3u8?md5=tZFS9G9yk8mRgZzJZIB9FA&expires=1726960589
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/96283315/s718/kaptan-marvel.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Captain Marvel
+https://s9.imagehub.cloud/mi/F2SjqTShYx1OHyMSGP4kZQtjpP5RIHSZd0zxnJ1uM2IbqJVhL2kiqJDs0xi9vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://panel.1kfilm.com/assets/img/filmsimg/avengers-endgame-yenilmezler-son-oyun.png"group-title="Marvel ":http-referrer="":http-user-agent="",Avengers 4
+https://vidrame.pro/vr/get/e267a38e/1080.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Spiderman Far from Home
+https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/81sraKkmmlL._AC_UF894,1000_QL80_.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Falcon and Winter Soldier  (Dizi)
+https://www.tekfullfilmizle5.com/search/The+Falcon+and+the+Winter+Soldier
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/265588420/s718/kara-dul.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Black Widow
+https://vidrame.pro/vr/get/226fe687/1080.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Shang-Chi
+https://cdn.txtstream2.xyz/hls/5/cdn8/Movies/ShangChi.mp4/index.m3u8?token=Dxw5l263TTTAh9HyYZ2IIA&tms=1727092723
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2022/04/eternals-180x270.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Eternals
+https://cdn.txtstream2.xyz/hls/5/cdn17/Film/Eternals.2021.Imax.1080P.Dsnp.Web-Dl.Ddp5.1.Atmos.H.264-Tt.mp4/index.m3u8?token=qZ21dqV06BGtcEFAR9oRFA&tms=1727092887
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/orumcek-adam-eve-donus-yok-izle-1-16915.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Spiderman No  way Home
+https://panel.sinema.cx/cdn/hls/d7e4fb9da8a757a991c863afbd2f425c/master.m3u8?md5=6PJVgyTxznEqA-Weh0atoQ&expires=1727013866
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5525675DDD0ADAC6D5527A7E051241B2DB49578C204C32C9C097B67022EABFC8/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Marvel ":http-referrer="":http-user-agent="",Wandavison (Dizi)
+https://dizimag.org/dizi/wandavision
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/DR-STRANGE.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Doctor Strange 2
+https://s26.imagehub.cloud/m3/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhL2kiqJDs0xi26vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://sm.ign.com/ign_tr/cover/a/agatha-cov/agatha-coven-of-chaos_5a3c.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Agatha: Coven of Chaos (Dizi)
+https://www.hdfilmcehennemi.sh/dizi/agatha-all-along-6/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/22/07/06/14/47/0142016.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Thor 4
+https://box-1014-u.vmeas.cloud/hls/xqx2p5wepnokjiqbth5cpoahvnjamztdl4yhh5whowlcud4yjurdfhaff5ea/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/22/11/07/07/30/1572006.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Black Panter 2
+https://s5.imgcache.cloud/mc/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aL2SwnTHhL2kiqJDs0xi5vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/301774755/s718/the-guardians-of-the-galaxy-holiday-special.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari Special
+https://s2.imageshub.cloud/m9/ITuyYxq1LKWxnJShpl5iMv50nTHhE2SfLKu5YxuioTyxLKxhH3OyL2yuoP4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1uM2ImnUIvYzAfo3Ixs0xi2vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Werewolf by Night
+https://box-1102-t.vmeas.cloud/hls/xqx2oc77pfokjiqbthrspoqvvezp7mawdifzhg7azakan72man6i5qnqtlda/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/308866909/s718/sezon-1.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Loki (Dizi)
+https://www.hdfilmcehennemi.sh/dizi/loki-izle-hdf10-70333107/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/81TR9+czWiS.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",What If (Dizi)
+https://hdfilmizlesene.org/peki-ya-what-if-dizi-izle/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/258645940/s718/hawkeye.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Hawkeye (Dizi)
+https://www.hdfilmcehennemi.sh/dizi/hawkeye-hdf14-1hdf8011190/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/277939929/s718/moon-knight.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Moon Knight (Dizi)
+https://hdfilmcehennem.net/moon-knight-izle-6/
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/23/01/25/11/45/2784455.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Karinca adam 3
+https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/23/05/04/08/22/5434226.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Galaksinin Koruyuculari  3
+https://s230.rapidrame.com/hls2/01/00017/ecwqshhs3aq0_,l,n,.urlset/master.m3u8?t=oO1N8VRujNdEtDAk1ihVXFrxpSwJTB8aZ3OxmH5SMso&s=1727448594&e=1199998800&f=87506&srv=s298&i=0.0&sp=0&p1=s230&p2=s230
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://images.justwatch.com/poster/283720920/s718/Staffel-1.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Ms. Marvel (Dizi)
+https://yabancidizi.tv/dizi/ms-marvel-izle-3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_167d5a00.jpeg?region=0,0,540,810"group-title="Marvel ":http-referrer="":http-user-agent="",The Marvels
+https://vidrame.pro/vr/get/b38c1403/480.txt
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2023/07/28/content_64c37b9bd54c2_78839.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Secret Invasion (Dizi)
+https://yabancidizi.tv/dizi/secret-invasion-izle-1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/23/11/04/06/16/0911565.jpg"group-title="Marvel ":http-referrer="":http-user-agent="",Echo (Dizi)
+https://fullhdfilmizle.cx/echo-izle-22
+#EXTINF:-1 tvg-name="Yeşil Çam"tvg-id="icerik_YesilCam"tvg-logo="https://i.ytimg.com/vi/li4kIJdyxs4/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Yeşil Çam
+https://bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kemal Sunal"tvg-id="icerik_KemalSunal"tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Kemal Sunal
+https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+#EXTINF:-1 tvg-name="Şener Şen"tvg-id="icerik_SenerSen"tvg-logo="https://i.ytimg.com/vi/PTp6hmibGSc/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Şener Şen
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+#EXTINF:-1 tvg-name="Behzat Ç."tvg-id="icerik_BehzatC"tvg-logo="https://i.ytimg.com/vi/asbzUzzLwxs/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Behzat Ç.
+https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+#EXTINF:-1 tvg-name="Cennet Mahallesi"tvg-id="icerik_CennetMahallesi"tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Cennet Mahallesi
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+#EXTINF:-1 tvg-name="Güldür Güldür"tvg-id="icerik_GuldurGuldur"tvg-logo="https://i.ytimg.com/vi/JX5mSkUfxmk/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Güldür Güldür
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+#EXTINF:-1 tvg-name="eee Sonra"tvg-id="icerik_eeeSonra"tvg-logo="https://i.ytimg.com/vi/vzcV17H4pgk/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",eee Sonra
+https://ythls.kekikakademi.org/youtube/channel/UCt28gd-5rh24_UPRwf-dulQ.m3u8
+#EXTINF:-1 tvg-name="İşler Güçler"tvg-id="icerik_islerGucler"tvg-logo="https://i.ytimg.com/vi/So3gvma5Fmc/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",İşler Güçler
+https://ythls.kekikakademi.org/youtube/channel/UCALHvpjqmBwdRwYPc3qVezw.m3u8
+#EXTINF:-1 tvg-name="Geniş Aile"tvg-id="icerik_GenisAile"tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Geniş Aile
+https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+#EXTINF:-1 tvg-name="Yalan Dünya"tvg-id="icerik_YalanDunya"tvg-logo="https://i.ytimg.com/vi/2X5QsM3Z8pQ/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Yalan Dünya
+https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
+#EXTINF:-1 tvg-name="Türk Malı"tvg-id="icerik_TurkMali"tvg-logo="https://i.ytimg.com/vi/RObRiZDDLEk/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Türk Malı
+https://ythls.kekikakademi.org/youtube/channel/UCpSOc0PBZP3eVjEAhFoq3rg.m3u8
+#EXTINF:-1 tvg-name="Sihirli Annem"tvg-id="icerik_SihirliAnnem"tvg-logo="https://i.ytimg.com/vi/hzRyv4pyeO0/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Sihirli Annem
+https://ythls.kekikakademi.org/youtube/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
+#EXTINF:-1 tvg-name="Çilek Kokusu"tvg-id="icerik_CilekKokusu"tvg-logo="https://i.ytimg.com/vi/78sojzQcvgs/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Çilek Kokusu
+https://ythls.kekikakademi.org/youtube/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
+#EXTINF:-1 tvg-name="Adını Feriha Koydum"tvg-id="icerik_AdiniFerihaKoydum"tvg-logo="https://i.ytimg.com/vi/ESNRjuK9QdU/hqdefault.jpg"group-title="İçerik":http-referrer="":http-user-agent="",Adını Feriha Koydum
+https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
+#EXTINF:-1 tvg-name="RTL"tvg-id="Almanya_RTL"tvg-logo="https://www.rtl.de/rtl_logo.png"group-title="Almanya":http-referrer="":http-user-agent="",RTL
+https://ma.anixa.tv/clips/stream/rtl/playlist.php
+#EXTINF:-1 tvg-name="RTL 2"tvg-id="Almanya_RTL 2"tvg-logo="https://images.rtl2.de/kNRjQB5sYqPN-rtlzwei.png?impolicy=assets2021&im=Resize,width=1200"group-title="Almanya ":http-referrer="":http-user-agent="",RTL 2
+https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8?token=e1ee603f1bdd650c210cdc26fd27b44253d34bdd-ba7ab76fbac36ef676d666d3eaf3785d-1726516993-1726506193
+#EXTINF:-1 tvg-name="RTL Nitro"tvg-id="ALmanya_RTL Nitro "tvg-logo="https://kress.oberauer-cloud.com/news_detail_slider/uploads/news/rtl-nitro-logo-2012.jpg"group-title="Almanya ":http-referrer="":http-user-agent="",RTL Nitro
+https://s6.hopslan.com/nitrox1/tracks-v1a1/mono.m3u8?token=8582039461a2c4c88a76f090a612358383071839-12b0f6a9a9cd780c3588af48259ef815-1726848380-1726837580
+#EXTINF:-1 tvg-name="SAT 1 "tvg-id="Almanya_SAT1"tvg-logo="https://www.fameonme.de/wp-content/uploads/2018/06/sat1.jpg"group-title="Almanya ":http-referrer="":http-user-agent="",SAT 1
+https://s.hdtvizlecanli.com/sat1.m3u8
+#EXTINF:-1 tvg-name="SAT 1 Gold "tvg-id="Almanya_SAT1 Gold "tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f6/2021/03/sat1-gold-png-form.png"group-title="Almanya ":http-referrer="":http-user-agent="",SAT 1 Gold
+https://s6.hopslan.com/goldx1/tracks-v1a1/mono.m3u8?token=73845b775dd51db4878251c8797c223366d11138-f5505d7b76539f0e9abb3c2ba5703ac5-1726851775-1726840975
+#EXTINF:-1 tvg-name="Kabel 1"tvg-id="Almanya_Kabel 1 "tvg-logo="https://mim.p7s1.io/pis/ld/9dbbzChLCVyZ-c1vEwXZAanB-DJ78rnq2V2gRWTHzVV6NywNWMSJCEGmZ4YSENP-WRL0b9lo2z_IfG4Zc_BxBCA7dC3b_CyoDoGsPdBTotvlVdp9k62ou-SlzQIxn3Q1vvVgoAHfm7E/profile:original?w=1024"group-title="Almanya ":http-referrer="":http-user-agent="",Kabel 1
+https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8?token=c41f5c25ac12782f0a5810475a91ce7d8e5a885f-1278ad1729e47f3a9803f67dbbe5409a-1726515270-1726504470
+#EXTINF:-1 tvg-name="Tele 5 "tvg-id="Almanya_Tele 5 "tvg-logo="https://yt3.googleusercontent.com/kCFPrxuH2S0Km6bLHLRnk-3a7yERF4SQ1YrV5KDbMBSeJYge9AhBpKQLT8SZ2Dz2kNOjrBO_6g=s900-c-k-c0x00ffffff-no-rj"group-title="Almanya ":http-referrer="":http-user-agent="",Tele 5
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8?token=d67211d6689c50314c03adeb48052d1264a7ccb5-6c62668d6f504a029a0eee170edc0331-1726848422-1726837622
+#EXTINF:-1 tvg-name="DMAX "tvg-id="Almanya_DMAX"tvg-logo="https://www.dmax-shop.de/cdn/shop/files/mgmn_dmax_535x.jpg?v=1698242767"group-title="Almanya ":http-referrer="":http-user-agent="",DMAX
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8?token=b42640b45f6189618ee56486ac36684ca55e2f33-959e0d851cc7bb6e659086a125f355fa-1726848543-1726837743
+#EXTINF:-1 tvg-name="ARD "tvg-id="Almanya_ARD "tvg-logo="https://www.ard.de/icons/sharing-icon-1280x720.png"group-title="Almanya ":http-referrer="":http-user-agent="",ARD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master1080p5000.m3u8
+#EXTINF:-1 tvg-name="ZDF"tvg-id="Almanya_ZDF "tvg-logo="https://m.media-amazon.com/images/I/41MEvKq9u1L.png"group-title="Almanya ":http-referrer="":http-user-agent="",ZDF
+https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8?token=a1414dbb0cf44912b4872b08757e95a0cc92328c-54f787d1700d9e23e242791345676abd-1726959067-1726948267
+#EXTINF:-1 tvg-name="ZDF Info "tvg-id="Almanya-Haber_ZDF Info "tvg-logo="https://www.zdf.de/assets/2400-zdfinfo-100~1280x720?cb=1685531948465"group-title="Almanya-Haber ":http-referrer="":http-user-agent="",ZDF Info
+https://s6.hopslan.com/zdfinfox1/tracks-v1a1/mono.m3u8?token=fc9ae65622643b852ea69bbd4945c26039d7a444-0201866f70631c84bd0d883771dc374c-1726961171-1726950371
+#EXTINF:-1 tvg-name="Phoenix "tvg-id="Almanya-Haber_Phoenix"tvg-logo="https://as1.ftcdn.net/v2/jpg/05/52/99/22/1000_F_552992226_II7IOeYmOdF2CsKlupt0s0R9qPTGleaB.jpg"group-title="Almanya-Haber ":http-referrer="":http-user-agent="",Phoenix
+https://s6.hopslan.com/phoenix/tracks-v1a1/mono.m3u8?token=75a8848a2afc7c2b855c511e3a49d34dee83743f-5a8ea641d356cd84126f57e336428de6-1726961334-1726950534
+#EXTINF:-1 tvg-name="Kika "tvg-id="Almanya-Cocuk_Kika "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"group-title="Almanya-Cocuk ":http-referrer="":http-user-agent="",Kika
+https://s6.hopslan.com/kika/tracks-v1a1/mono.m3u8?token=9a0a32be0f4d6a1703f478b63302f360c7813821-55dcd781b0585fff92ae2db9e1356835-1726964382-1726953582
+#EXTINF:-1 tvg-name="Kika"tvg-id="Almanya-Cocuk_Kika"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png"group-title="Almanya-Cocuk":http-referrer="":http-user-agent="",Kika
+https://s6.hopslan.com/kika/tracks-v1a1/mono.m3u8?token=9a0a32be0f4d6a1703f478b63302f360c7813821-55dcd781b0585fff92ae2db9e1356835-1726964382-1726953582
+#EXTINF:-1 tvg-name="Xezer TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/xezer-tv-izle.png"group-title="Azerbaycan":http-referrer="":http-user-agent="",Xezer TV
+https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w714244782.m3u8?hash=97cb64fd84c116ea9417009072dfc72e
+#EXTINF:-1 tvg-name="Space TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/space-tv.png"group-title="Azerbaycan ":http-referrer="":http-user-agent="",Space TV
+https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w882301226.m3u8?hash=97cb64fd84c116ea9417009072dfc72e
+#EXTINF:-1 tvg-name="Medeniyet TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/medeniyyet-tv.png"group-title="Azerbaycan ":http-referrer="":http-user-agent="",Medeniyet TV
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=b9d50f7ea8ccf03a6940313552086ca382ea8b1b-857de22d4eddfa9af001ea4ed5d1708c-1727716953-1727706153
+#EXTINF:-1 tvg-name="ARB TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/arb-tv.png"group-title="Azerbaycan ":http-referrer="":http-user-agent="",ARB TV
+https://yayin2.canlitv.fun/live/arb.stream/chunklist_w917453874.m3u8?hash=97cb64fd84c116ea9417009072dfc72e
+#EXTINF:-1 tvg-name="CBC Az Tv"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/cbc-az-tv.png"group-title="Azerbaycan-Haber":http-referrer="":http-user-agent="",CBC Az Tv
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-name="ARB 24 TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/arb-24-tv.png"group-title="Azerbaycan-Haber":http-referrer="":http-user-agent="",ARB 24 TV
+https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w173620757.m3u8?hash=97cb64fd84c116ea9417009072dfc72e
+#EXTINF:-1 tvg-name="Baku TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/baku-tv-canli.png"group-title="Azerbaycan-Haber":http-referrer="":http-user-agent="",Baku TV
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:-1 tvg-name="Ictimai TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/ictimai-tv-izle.png"group-title="Azerbaycan-Spor ":http-referrer="":http-user-agent="",Ictimai TV
+https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w948808377.m3u8?hash=97cb64fd84c116ea9417009072dfc72e
+#EXTINF:-1 tvg-name="CBC Sport"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/cbc-sports-izle.png"group-title="Azerbaycan-Spor ":http-referrer="":http-user-agent="",CBC Sport
+https://bozztv.com/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="AZ TV"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/az-tv.png"group-title="Azerbaycan-Belgesel":http-referrer="":http-user-agent="",AZ TV
+https://yayin2.canlitv.fun/live/aztv.stream/chunklist_w771113279.m3u8?hash=97cb64fd84c116ea9417009072dfc72e
+#EXTINF:-1 tvg-name="ATV Azad"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/atv-azad-tv-izle.png"group-title="Azerbaycan-Belgesel":http-referrer="":http-user-agent="",ATV Azad
+https://mydo.canlitvplayer.com/atvaz.m3u8?bandwidth=2096&e=1727728616&playlistlength=5&shift=0&sid=coder_53&token=37ea8a3c2272fb42e518a1261408eef7&user=37076
+#EXTINF:-1 tvg-name="ATV Azad"tvg-id=""tvg-logo="https://www.canlitv.vin/kanallar/atv-azad-tv-izle.png"group-title="Azerbaycan-Belgesel":http-referrer="":http-user-agent="",ATV Azad
+https://mydo.canlitvplayer.com/atvaz.m3u8?bandwidth=2096&e=1727728616&playlistlength=5&shift=0&sid=coder_53&token=37ea8a3c2272fb42e518a1261408eef7&user=37076
